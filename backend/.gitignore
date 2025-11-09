@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+backend/
+
+.python-version
+
+db.sqlite3
+
+docker-compose.yml
+
+Dockerfile
+
+pyproject.toml
+
+uv.lock
+
+.env
+
+.env.example
+
+docs
+
+README.md
